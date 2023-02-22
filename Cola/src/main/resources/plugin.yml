@@ -1,0 +1,6 @@
+name: ColaChecks
+version: '${project.version}'
+main: me.ratfarmer11.colachecks.ColaChecks
+prefix: Cola
+authors: [ RatFarmer11 ]
+description: ColaChecks Anticheat

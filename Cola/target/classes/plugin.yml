@@ -1,0 +1,6 @@
+name: ColaChecks
+version: '1.0-SNAPSHOT'
+main: me.ratfarmer11.colachecks.ColaChecks
+prefix: Cola
+authors: [ RatFarmer11 ]
+description: ColaChecks Anticheat
